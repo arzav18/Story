@@ -1,1 +1,3 @@
 It's a very beautiful day, as i am learning to make a local repository using Git.
+
+Experimenting with 2nd branch named new_branch
